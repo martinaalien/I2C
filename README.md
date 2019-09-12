@@ -1,2 +1,2 @@
 # I2C
-I2C for the group project at NTNU.
+I2C for a group project at NTNU.
